@@ -1,0 +1,4 @@
+interface OverviewProps {
+    quantityOfItem?: number
+    
+}
